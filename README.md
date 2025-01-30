@@ -119,8 +119,7 @@ hand-tracking-pipeline/
 | Warning Floods | Aggressive logging suppression | Cleaner output and easier debugging |
 
 ## Results <a name="results"></a>
-<video src="[output_video.mp4](https://github.com/DeepakSingh260/Assignment1/blob/main/output%20video.mp4
-)" controls>
+<video src="output video.mp4" controls>
   Your browser does not support the video tag.
 </video>
 - Successful hand segmentation at 10-second intervals
