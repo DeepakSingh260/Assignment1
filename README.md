@@ -94,7 +94,7 @@ def process_video(input_path, output_path):
 
 
 ## Code Structure <a name="code-structure"></a>
-
+```
 hand-tracking-pipeline/
 ├── configs/
 │ └── sam2/
@@ -107,7 +107,7 @@ hand-tracking-pipeline/
 │ └── visualization.py
 ├── test.py
 └── README.md
-
+```
 
 
 ## Key Challenges & Solutions <a name="key-challenges--solutions"></a>
