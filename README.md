@@ -1,6 +1,6 @@
 # Hand Tracking Pipeline with SAM2 and MediaPipe
 
-![Pipeline Overview](https://via.placeholder.com/800x400.png?text=Hand+Tracking+Pipeline+Diagram)
+
 
 This project implements an automatic hand tracking pipeline using Google MediaPipe for detection and SAM2 (Segment Anything Model 2) for segmentation. Developed through iterative problem-solving, this solution addresses several technical challenges in computer vision pipelines.
 
