@@ -101,10 +101,8 @@ hand-tracking-pipeline/
 ├── checkpoints/
 │ └── sam2_hiera_large.pt
 ├── src/
-│ ├── detection.py
-│ ├── processing.py
-│ └── visualization.py
-├── test.py
+│ ├── test.py
+├── code_test.py
 └── README.md
 ```
 
