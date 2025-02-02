@@ -10,7 +10,6 @@ This project implements an automatic hand tracking pipeline using Google MediaPi
 - [Code Structure](#code-structure)
 - [Key Challenges & Solutions](#key-challenges--solutions)
 - [Results](#results)
-- [Future Improvements](#future-improvements)
 
 ## Environment Setup <a name="environment-setup"></a>
 
