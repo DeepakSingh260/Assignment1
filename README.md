@@ -74,22 +74,23 @@ def detect_hands(image):
 
 #### SAM2 Integration
 
+```
 Model initialization
 sam2 = build_sam2(config_path, checkpoint_path, device='cpu')
 predictor = SAM2ImagePredictor(sam2)
 Mask processing
 masks, _, _ = predictor.predict(box=hand_bboxes)
-
+```
 
 #### Video Processing Pipeline
-
+```
 def process_video(input_path, output_path):
 # Implements:
 # - Frame skipping (1 frame/10 seconds)
 # - Error-resilient mask processing
 # - Efficient video writing
 # - Progress tracking with tqdm
-
+```
 
 
 ## Code Structure <a name="code-structure"></a>
