@@ -122,13 +122,14 @@ hand-tracking-pipeline/
 ## Results <a name="results"></a>
 <video src="output video.mp4" controls>
   Your browser does not support the video tag.
-</video>
-- Successful hand segmentation at 10-second intervals
-- Visual feedback through green mask overlays
-- Maintained original video framerate in output
-- Average processing time: 20-25s per frame (CPU)
-
-Processing Video: 100%|█████████| 210/210 [1:15:00<00:00, 20.07s/frame]
+</video> 
+<br/>
+- Successful hand segmentation at 10-second intervals <br/>
+- Visual feedback through green mask overlays <br/>
+- Maintained original video framerate in output <br/>
+- Average processing time: 20-25s per frame (CPU) <br/>
+ <br/><br/>
+Processing Video: 100%|█████████| 210/210 [1:15:00<00:00, 20.07s/frame]  <br/>
 Processed video saved to: output_video.mp4
 
 
